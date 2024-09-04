@@ -1,16 +1,16 @@
-# How to install Neofetch for Windows:
+How to install Neofetch for Windows:
 
 In order for 'neofetch'/'neoversion' commands to be working in command prompt, you will need to add the batch files into your machines system path as a enviroment variable.
 
 
-# Step 1 | Downloading and preparing files
+( Step 1 | Downloading and preparing files )
 
 First download the latest release of Neofetch from this Github page, after downloading you will need open the compressed file and extract the Neofetch folder into your C drive (C:/).
 
 This is because you want to place the folder in a location where it will most likely not be touched/moved.
 
 
-# Step 2 | Open the Environment Variables Window
+( Step 2 | Open the Environment Variables Window )
 
 Click on the Windows Start button and in the search bar, type Environment Variables.
 
@@ -19,7 +19,7 @@ Select Edit the system environment variables option from the results.
 In the System Properties window, click on the Environment Variables button near the bottom.
 
 
-# Step 3 | Edit the PATH Variable
+Step 3 | Edit the PATH Variable
 
 Ensure you are looking at the System Variables section and not User Variables.
 
