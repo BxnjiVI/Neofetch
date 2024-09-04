@@ -19,3 +19,7 @@ A simple batch script that brings the popular Linux system information tool, [Ne
 
 - Contributions are welcome! Feel free to open issues, submit pull requests, or suggest new features.
 - Please make sure to follow the contribution guidelines when submitting issues or pull requests.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
