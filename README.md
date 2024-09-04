@@ -10,7 +10,12 @@ A simple batch script that brings the popular Linux system information tool, [Ne
 - Lightweight and fast, perfect for adding a personal touch to your terminal.
 - Works on all versions of Windows that support batch scripting.
 
-### Prerequisites
+## Prerequisites
 
 - A Windows operating system with command-line access (CMD or PowerShell).
 - Basic knowledge of batch scripting (optional, for customization).
+
+## Contributing
+
+- Contributions are welcome! Feel free to open issues, submit pull requests, or suggest new features.
+- Please make sure to follow the contribution guidelines when submitting issues or pull requests.
