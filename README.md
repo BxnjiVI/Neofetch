@@ -15,6 +15,7 @@ A simple batch script that brings the popular Linux system information tool, [Ne
 ## Installation
 
 - For a full installation guide, please see the [INSTALLATION](/INSTALLATION).
+- Please bare in mind that a fully automatic installation will be coming soon...
 
 ## Prerequisites
 
